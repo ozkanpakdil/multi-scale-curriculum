@@ -24,7 +24,7 @@ This repository has been tested with Ubuntu 18.04 and macOS 10.14 Mojave, we hig
 
 ### Editable Installation
 ```
-git clone https://github.com/haarburger/multi-scale-curriculum.git .
+git clone https://github.com/haarburger/multi-scale-curriculum.git
 cd multi-scale-curriculum
 pip install -e .
 ```
